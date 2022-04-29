@@ -7,6 +7,13 @@
 
 ## 编程语言
 
+- [x] JavaScript
+- [x] Typescript
+- [x] Solidity
+- [x] Go
+- [x] Rust
+- [x] React
+
 不同的职业定位有不同的编程语言要求，这里列出几个主流或即将成为主流的编程语言。
 
 ### JavaScript
@@ -48,22 +55,33 @@ JavaScript的超集，对JavaScript进行强类型的规范，大大减少了一
 ## 开发工具
 
 - [ ] GETH
+- [x] OpenZepplin
 - [x] Truffle
 - [x] Ganache
-
-- [ ] Hardhat
-- [ ] OpenZepplin
+- [x] Hardhat
 
 除了基本的编程语言，开发者还要熟悉常用的开发工具。
+
+### OpenZeppelin
+
+![](IMG/OpenZeppelin.png)
+
+OpenZeppelin是一个智能合约库。它提供了许多常用合约文件，这使得你在编写自己的合约时可以通过调用库中的合约来简化开发。
 
 ### Truffle
 
 ![](IMG/truffle.png)
 
-针对以太坊智能合约与Dapp开发的一套开发框架。提供了编译、测试和部署功能，旨在使以太坊开发变得更容易。
+针对以太坊智能合约与Dapp开发的一套开发框架。提供了编译、测试和部署功能，旨在使以太坊开发变得更容易。是目前开发者使用的最多的开发框架，常搭配Ganache使用。
 
 ### Ganache
 
 ![](IMG/ganache.jpg)
 
-一条以太坊私有链，使得开发者可以本地模拟链上环境，方便开发、测试以及部署智能合约与Dapp，配有图形化界面，使得区块链变化更直观。
+一条以太坊私有链，使得开发者可以本地模拟链上环境，方便开发、测试以及部署智能合约与Dapp，配有图形化界面，使得区块链变化更直观。常辅助Truffle。
+
+### Hardhat
+
+![](IMG/hardhat.png)
+
+和Truffle一样，Hardhat也是一套以太坊的开发框架。它的速度非常快，同时“插件化”的特点使得其备受青睐。
