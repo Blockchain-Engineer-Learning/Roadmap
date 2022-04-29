@@ -7,14 +7,14 @@
 
 ## 编程语言
 
+不同的职业定位有不同的编程语言要求，这里列出几个主流或即将成为主流的编程语言。
+
 - [x] JavaScript
 - [x] Typescript
 - [x] Solidity
 - [x] Go
 - [x] Rust
 - [x] React
-
-不同的职业定位有不同的编程语言要求，这里列出几个主流或即将成为主流的编程语言。
 
 ### JavaScript
 
@@ -54,13 +54,13 @@ JavaScript的超集，对JavaScript进行强类型的规范，大大减少了一
 
 ## 开发工具
 
+除了基本的编程语言，开发者还要熟悉常用的开发工具。
+
 - [ ] GETH
 - [x] OpenZepplin
 - [x] Truffle
 - [x] Ganache
 - [x] Hardhat
-
-除了基本的编程语言，开发者还要熟悉常用的开发工具。
 
 ### OpenZeppelin
 
