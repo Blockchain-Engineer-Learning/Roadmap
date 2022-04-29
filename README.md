@@ -47,9 +47,23 @@ JavaScript的超集，对JavaScript进行强类型的规范，大大减少了一
 
 ## 开发工具
 
-除了基本的编程语言，开发者还要熟悉常用的开发工具。
-
 - [ ] GETH
-- [ ] Truffle
+- [x] Truffle
+- [x] Ganache
+
 - [ ] Hardhat
 - [ ] OpenZepplin
+
+除了基本的编程语言，开发者还要熟悉常用的开发工具。
+
+### Truffle
+
+![](IMG/truffle.png)
+
+针对以太坊智能合约与Dapp开发的一套开发框架。提供了编译、测试和部署功能，旨在使以太坊开发变得更容易。
+
+### Ganache
+
+![](IMG/ganache.jpg)
+
+一条以太坊私有链，使得开发者可以本地模拟链上环境，方便开发、测试以及部署智能合约与Dapp，配有图形化界面，使得区块链变化更直观。
